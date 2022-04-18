@@ -27,4 +27,3 @@ another posibility is the chance to take out a King. Win the game.
 
 
 
-# def user_input_length (userid, userpassword)
